@@ -1,11 +1,15 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 # NBA Game Performence
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) for showing NBA game performance in 2018-2019 season.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) for showing [NBA game performance](https://nba-game-performance.netlify.app) in 2018-2019 season.
 
 ## Usage
-First, run the development server:
+First, install dependencies:
+```bash
+npm install
+```
 
+Run the development server:
 ```bash
 npm run dev
 # or
