@@ -5,7 +5,7 @@ function Footer() {
         <footer className={styles.footer}>
             <div>
                 <a className={"button is-white "+styles.link} 
-                    href="https://github.com/xiongjia000777/nba-game-performance" 
+                    href="https://github.com/jia7xiong/nba-game-performance" 
                     target="_blank"
                     rel="noreferrer"
                 >

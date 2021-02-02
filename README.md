@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Maintainers
 [@zequnyu](https://github.com/zequnyu)
 
-[@xiongjia000777](https://github.com/xiongjia000777)
+[@jia7xiong](https://github.com/jia7xiong)
 
 [@Sidong-Wang](https://github.com/Sidong-Wang)
 
